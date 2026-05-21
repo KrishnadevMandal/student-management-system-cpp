@@ -13,9 +13,9 @@ A console-based Student Management System developed using modern C++ concepts su
 ✅ Display All Students  
 ✅ Update Student  
 ✅ Delete Student  
-✅ Search Student(by roll number)
-✅ Sort Students(by name / roll number / percentage)
-✅ Rank List System  
+✅ Search Student(by roll number)  
+✅ Sort Students(by name / roll number / percentage)  
+✅ Rank List System   
 ✅ Topper Analytics  
 ✅ File Handling  
 ✅ Multi-file Project Structure  
