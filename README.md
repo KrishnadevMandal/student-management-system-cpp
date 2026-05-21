@@ -13,8 +13,8 @@ A console-based Student Management System developed using modern C++ concepts su
 ✅ Display All Students  
 ✅ Update Student  
 ✅ Delete Student  
-✅ Search Student (by roll number) 
-✅ Sort Students (by name / roll number / percentage) 
+✅ Search Student(by roll number)
+✅ Sort Students(by name / roll number / percentage)
 ✅ Rank List System  
 ✅ Topper Analytics  
 ✅ File Handling  
@@ -51,6 +51,22 @@ Student-Management-System-CPP/
 ├── admin.txt
 ├── students.txt
 │
+├── screenshots/
+|   ├── login.png
+|   ├── add_student.png
+|   ├── admin_menu.png
+|   ├── change_admin_password.png
+|   ├── delete_student.png
+|   ├── display_student.png
+|   ├── search_student.png
+|   ├── show_rank_list.png
+|   ├── show_topper.png
+|   ├── sort_menu.png
+|   ├── sort_student.png
+|   ├── student_management_portal.png
+|   ├── update_menu.png
+|   └── update_student.png
+|
 └── README.md
 
 ---
