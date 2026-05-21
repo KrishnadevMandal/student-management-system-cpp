@@ -35,6 +35,16 @@ A console-based Student Management System developed using modern C++ concepts su
 
 ---
 
+# ⭐ Project Highlights
+
+- Fully file-based data persistence
+- Modular OOP design
+- Menu-driven system
+- Real-time ranking system
+- Clean input validation
+
+---
+
 # 📂 Project Structure
 
 ```text
@@ -68,6 +78,16 @@ Student-Management-System-CPP/
 |   └── update_student.png
 |
 └── README.md
+```
+
+---
+
+# ▶️ How to Use
+
+1. Compile the project
+2. Run executable
+3. Login as Admin
+4. Perform operations from menu
 
 ---
 
@@ -76,7 +96,9 @@ Student-Management-System-CPP/
 ### Compile the code:
 ```bash
 g++ main.cpp Student.cpp StudentManagementSystem.cpp -o sms
+```
 
 ### Run the code:
 ```bash
 ./sms
+```
