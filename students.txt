@@ -1,4 +1,4 @@
+Anurag Gupta,29,1234,80.5,B,CPP:86,Java:75
 Jose Prince Barwa,21,1234,99,A,English:99
 Krishnadev Mandal,25,1234,98,A,Hindi:98
-Rahul Das,67,1234,74,C,Operating System:81,Python:67
-Anurag Gupta,29,1234,75.5,C,CPP:86,Java:65
+Sonu Kumar,45,1234,67,D,DBMS:67
